@@ -9,6 +9,7 @@ import java.util.concurrent.*;
 
 /**
  * Created by changmingxie on 12/3/15.
+ *
  */
 @Service
 public class AccountServiceProxy {
